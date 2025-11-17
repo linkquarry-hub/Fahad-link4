@@ -11,8 +11,8 @@
     { "src": "/lula1pass", "dest": "/lula1pass.js" },
     { "src": "/wakar", "dest": "/wakar.js" },
     { "src": "/wakarpass", "dest": "/wakarpass.js" },
-    { "src": "/ajy", "dest": "/ajy.js" },
-    { "src": "/ajypass", "dest": "/ajypass.js" },
+    { "src": "/ajy1", "dest": "/ajy1.js" },
+    { "src": "/ajy1pass", "dest": "/ajy1pass.js" },
     { "src": "/gnd", "dest": "/gnd.js" },
     { "src": "/gndpass", "dest": "/gndpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
