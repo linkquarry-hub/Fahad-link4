@@ -14,7 +14,7 @@
     { "src": "/ajy1pass", "dest": "/ajy1pass.js" },
     { "src": "/mja", "dest": "/mja.js" },
     { "src": "/chumpa", "dest": "/chumpa.js" },
-    { "src": "/mjapass", "dest": "/mjapass.js" },
+    { "src": "/chumpapass", "dest": "/chumpapass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
 }
